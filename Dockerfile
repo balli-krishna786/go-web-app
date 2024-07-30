@@ -2,7 +2,7 @@
 # This is the Dockerfile that we will use to build the image
 # and run the container
 
-# Start with a base image
+# Start with a Base image
 FROM golang:1.22 as base
 
 # Set the working directory inside the container
