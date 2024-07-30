@@ -8,7 +8,7 @@ image:
   repository: baliramdc/balli_webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10169183193"
+  tag: "10169639533"
 
 ingress:
   enabled: false
